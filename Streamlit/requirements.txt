@@ -1,0 +1,5 @@
+streamlit
+pandas==1.4.4
+pickle-mixin==1.0.2
+streamlit-option-menu==0.3.2
+protobuf
